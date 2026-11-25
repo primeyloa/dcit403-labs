@@ -1,0 +1,3 @@
+What is the difference between a simple reflex agent and a goal-based agent?
+Why is a chatbot's environment considered partially observable even though it sees every message the user types?
+What role does the system prompt play in turning a large language model into an intelligent agent?
